@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kiran Marne</h1>
 <h3 align="center">A passionate Data Scientist from India. Extracting Insights and Making Data-Driven Decisions.</h3>
 
-- 🔭 I’m currently working on **AL projects**
+- 🔭 I’m currently working on **AI projects**
 
 - 🌱 I’m currently learning **AI,and Cloudyml course**
 
